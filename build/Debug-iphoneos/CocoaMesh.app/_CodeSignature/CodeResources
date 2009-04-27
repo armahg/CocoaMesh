@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>CocoaMesh_1.xcclassmodel/elements</key>
+		<data>
+		SioGZpjyRepjYYJdLRCVahVrW4E=
+		</data>
+		<key>CocoaMesh_1.xcclassmodel/layout</key>
+		<data>
+		8j4uQ/Vrto0qJycEuUaFmZCjvIo=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		fWIeEKzOiz7NSgUITiwKqBHI97A=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>RootViewController.nib</key>
+		<data>
+		RsPc9V7IKx7irbjznHDZL62cfLI=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		4AukQJpa9w1MWbJkF23fO1aVIyI=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
