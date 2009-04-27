@@ -25,7 +25,7 @@
 	[window makeKeyAndVisible];
 	
 	LOE * env = [[LOE alloc] init];
-	[env connectWithUserID:@"armahnii2000@hotmail.com" password:@"ga200485"];
+	[env connectWithUserID:@"" password:@""];
 
 
 
